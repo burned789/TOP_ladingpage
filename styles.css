@@ -1,0 +1,117 @@
+html {
+    height: 100vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.heropic img {
+    max-width: 450px;
+}
+
+.head,
+.footer {
+    background-color: #1F2937;
+}
+
+.menu {
+    color: #F9FAF8;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+ul {
+    color:#F9FAF8;
+    font-size: medium;
+    list-style: none;
+    padding-inline-start: 0;
+    display: flex;
+    gap: 20px;
+}
+
+a {
+    text-decoration: none;
+    color:#e5e7eb;
+    font-size: 18px;
+}
+
+#heroheadline {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+#herosubtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.head {
+
+}
+
+.menu {
+    display: flex; 
+}
+.hero {
+
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    padding: 8px 24px;
+    border-radius: 6px;
+    border: 0;
+}
+
+.information {
+
+}
+
+#infotext {
+font-size: 36px;
+font-weight: bolder;
+color: #1F2937;
+}
+
+.content {
+
+
+}
+
+.pics {
+
+
+}
+
+.pics img {
+    max-width: 150px;
+}
+
+.quote {
+ background-color: #e5e7eb;
+ font-size: 36px;
+ font-style: italic;
+ font-weight: 100;
+ color: #1F2937;
+}
+
+#heiner {
+    font-weight: bold;
+    font-size: 20px;
+    font-style: normal;
+    text-align: end;
+}
+
+.cta {
+    background-color: #3882F6;
+    color: #FFFFFF;
+
+}
+
+.footer {
+    height: 70px;
+    color: #FFFFFF;
+}
